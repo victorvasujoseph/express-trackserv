@@ -1,0 +1,24 @@
+{
+  "name": "express-trackserv",
+  "version": "1.0.0",
+  "description": "Tracking Server with MongoDB for React Native Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvasujoseph/express-trackserv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvasujoseph/express-trackserv/issues"
+  },
+  "homepage": "https://github.com/victorvasujoseph/express-trackserv#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1"
+  }
+}
